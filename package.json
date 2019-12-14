@@ -1,0 +1,12 @@
+{
+	"name": "@eeertekin/vue-cli-plugin-tailwindcss",
+	"version": "1.0.0",
+	"description": "TailwindCSS vue-cli plugin",
+	"license": "ISC",
+	"repository": "git+https://github.com/eeertekin/vue-cli-plugin-tailwindcss.git",
+	"bugs": {
+		"url": "https://github.com/eeertekin/vue-cli-plugin-tailwindcss/issues"
+	},
+	"homepage": "https://github.com/eeertekin/vue-cli-plugin-tailwindcss#readme",
+	"main": "index.js"
+}

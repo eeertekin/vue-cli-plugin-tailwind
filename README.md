@@ -1,1 +1,1 @@
-# vue-cli-plugin-tailwind
+# vue-cli-plugin-tailwindcss
